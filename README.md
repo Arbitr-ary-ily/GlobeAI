@@ -14,8 +14,8 @@ To install and run Globe AI, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/arbitr-ary-ily/globe-ai.git
-    cd globe-ai
+    git clone https://github.com/Arbitr-ary-ily/GlobeAI.git
+    cd GlobeAI
     ```
 
 2. **Install dependencies**:
