@@ -1,6 +1,6 @@
 # 🌍 Globe AI
 
-Welcome to **Globe AI**, an intelligent country searcher that provides comprehensive details about countries worldwide. This tool leverages advanced AI to deliver precise and relevant information, making it an essential resource for developers, researchers, and educators.
+Welcome to **Globe AI**, an intelligent country searcher that provides comprehensive details about countries worldwide. This tool leverages advanced AI to deliver precise and relevant information.
 
 ## ✨ Features
 
@@ -48,4 +48,4 @@ For any inquiries or support, please contact me at [ary10kum@gmail.com](mailto:a
 
 ### 📝 Description
 
-Globe AI is an advanced country search application designed to provide users with in-depth information about countries around the world. Utilizing state-of-the-art AI technology, Globe AI delivers detailed data including country demographics, geography, economy, and more. The application is built using Next.js 14, Tailwind CSS, and Shadcn/UI, ensuring a seamless and responsive user experience. Whether you're a developer, researcher, or educator, Globe AI is your go-to tool for obtaining precise and comprehensive country information.
+Globe AI is an advanced country search application designed to provide users with in-depth information about countries around the world. Utilizing state-of-the-art AI technology, Globe AI delivers detailed data including country demographics, geography, economy, and more. The application is built using Next.js 14, Tailwind CSS, and Shadcn/UI, ensuring a seamless and responsive user experience.
