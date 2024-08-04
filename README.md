@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌍 Globe AI
 
-## Getting Started
+Welcome to **Globe AI**, an intelligent country searcher that provides comprehensive details about countries worldwide. This tool leverages advanced AI to deliver precise and relevant information, making it an essential resource for developers, researchers, and educators.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🔍 Search and retrieve detailed information about any country.
+- 🌐 Access to data on demographics, geography, economy, and more.
+- 🔗 Easy integration with other applications.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ⚙️ Installation
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+To install and run Globe AI, follow these steps:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/arbitr-ary-ily/globe-ai.git
+    cd globe-ai
+    ```
 
-## Learn More
+2. **Install dependencies**:
+    ```bash
+    npm install
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+3. **Start the application**:
+    ```bash
+    npm run start
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Usage
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To use Globe AI, simply enter the name of the country you want to search for in the input field and hit the search button. The application will return detailed information about the selected country.
 
-## Deploy on Vercel
+## 🤝 Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+We welcome contributions to Globe AI! If you have suggestions for improvements or want to report issues, please create a pull request or issue on GitHub.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📜 License
+
+This project is licensed under the GNU Affero General Public License v3.0. See the LICENSE file for more details.
+
+## 📧 Contact
+
+For any inquiries or support, please contact me at [ary10kum@gmail.com](mailto:ary10kum@gmail.com).
+
+---
+
+### 📝 Description
+
+Globe AI is an advanced country search application designed to provide users with in-depth information about countries around the world. Utilizing state-of-the-art AI technology, Globe AI delivers detailed data including country demographics, geography, economy, and more. The application is built using Next.js 14, Tailwind CSS, and Shadcn/UI, ensuring a seamless and responsive user experience. Whether you're a developer, researcher, or educator, Globe AI is your go-to tool for obtaining precise and comprehensive country information.
